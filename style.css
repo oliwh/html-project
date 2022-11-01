@@ -1,0 +1,54 @@
+body {
+    background-color: #181a1b;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #e8e6e3;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #e8e6e3;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #e8e6e3;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #e8e6e3;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #e8e6e3;
+}
+
+#fsm {
+    width: 200px;
+    height: width;
+}
+
+#div-creation-story {
+    width: 60%;
+}
+
+#p-creation-story {
+    overflow-wrap: normal;
+}
+
+#div-why-join {
+    width: 60%;
+}
+
+#p-why-join {
+    overflow-wrap: normal;
+}
